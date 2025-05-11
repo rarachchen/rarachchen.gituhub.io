@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>DreamersIX Official Fansite</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: white;
+      margin: 0;
+      padding: 0;
+    }
+    header, nav, footer {
+      background-color: #1a1a1a;
+      text-align: center;
+      padding: 20px;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+    }
+    .content {
+      padding: 30px;
+    }
+    .member {
+      border-bottom: 1px solid #333;
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+    }
+    h1, h2 {
+      color: #e60039;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>DreamersIX</h1>
+    <p><em>X is your Death Machine</em></p>
+    <nav>
+      <a href="#home">Home</a>
+      <a href="#members">Members</a>
+      <a href="#about">Agency</a>
+    </nav>
+  </header>
+
+  <div class="content" id="home">
+    <h2>Welcome to the DreamersIX Fansite!</h2>
+    <p>Debut: February 28, 2025 | Pre-debut: February 16, 2025</p>
+    <p>Group Motto: <strong>"X is your Death Machine"</strong></p>
+    <p>Fan Greeting: "Who am I? I'm a Dreamer who Dreams about you"</p>
+    <p>Fan Answer: "Who am I? I'm Dreams of Dreamers"</p>
+    <p>Group Greeting: <strong>"Six for us, Dreamers!"</strong></p>
+  </div>
+
+  <div class="content" id="members">
+    <h2>Members</h2>
+
+    <div class="member">
+      <h3>Hans (양한서)</h3>
+      <p>Position: Main Dancer, Rapper | Emoji: 🦉</p>
+      <p>Birthday: April 7, 2007 | MBTI: INTJ | Height: 167 cm</p>
+      <p>Trainee: 2y 4m (Street Casting) | Credit: 5 (Debut)</p>
+      <p>Nickname: Elder, Uncle, Angel</p>
+    </div>
+
+    <div class="member">
+      <h3>Hyun (김현)</h3>
+      <p>Position: Main Vocal, Rapper | Emoji: 🪨</p>
+      <p>Birthday: Nov 11, 2007 | MBTI: ENTP/ENFP | Height: 176 cm</p>
+      <p>Trainee: 1y (DM Casting) | Credit: 10 songs</p>
+      <p>Nickname: ACE, NPC</p>
+    </div>
+
+    <div class="member">
+      <h3>Aeri (김애리)</h3>
+      <p>Position: Main Vocal, Lead Dancer, Leader | Emoji: 🐰</p>
+      <p>Birthday: Dec 30, 2007 | MBTI: ENFP/ENFJ | Height: 178 cm</p>
+      <p>Trainee: 5y 3m | Credit: 2 (Debut)</p>
+      <p>Nickname: Eomma, Pilar Kelas</p>
+    </div>
+
+    <div class="member">
+      <h3>Daeun (이다은)</h3>
+      <p>Position: Main Rapper, Lead Dancer, Captain | Emoji: 🐨</p>
+      <p>Birthday: May 10, 2008 | MBTI: ENFP | Height: 175.5 cm</p>
+      <p>Trainee: 5y 2m | Credit: 3 songs</p>
+      <p>Nickname: The Firecracker</p>
+    </div>
+
+    <div class="member">
+      <h3>Alexa (박이아)</h3>
+      <p>Position: Main Rapper, Dancer | Emoji: 🥛/🐹</p>
+      <p>Birthday: Jul 21, 2008 | MBTI: ENFJ | Height: 169 cm</p>
+      <p>Trainee: 5y | Credit: 1 song</p>
+      <p>Nickname: Fake Maknae</p>
+    </div>
+
+    <div class="member">
+      <h3>Sooah (김희린)</h3>
+      <p>Position: Main Dancer, Maknae | Emoji: 🦘</p>
+      <p>Birthday: Jul 31, 2008 | MBTI: ISFP | Height: 176.5 cm</p>
+      <p>Trainee: 5y | Credit: 1 song</p>
+      <p>Nickname: Silent Beast</p>
+    </div>
+  </div>
+
+  <div class="content" id="about">
+    <h2>Agency: X/IC Entertainment</h2>
+    <p>Founded: 2020 | Location: Seoul, South Korea</p>
+    <p>CEO: Unknown | Branches: Unknown</p>
+  </div>
+
+  <footer>
+    <p>© 2025 DreamersIX Fansite. Not affiliated with any real entity.</p>
+  </footer>
+</body>
+</html>
